@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestingLIb</string>
+    <string name="test_lib">Test Lib</string>
+</resources>
